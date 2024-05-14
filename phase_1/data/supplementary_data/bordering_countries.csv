@@ -1,0 +1,50 @@
+﻿country,bordering_countries
+afghanistan,"china, iran, pakistan, tajikistan, turkmenistan, uzbekistan"
+angola,"democratic_republic_of_congo, congo, namibia, zambia"
+bangladesh,"burma, india"
+benin,"burkina_faso, niger, nigeria, togo"
+bhutan,"china, india"
+burkina_faso,"benin, cote_d'ivoire, ghana, mali, niger, togo"
+burundi,"democratic_republic_of_congo, rwanda, tanzania"
+cambodia,"laos, thailand, vietnam"
+cape_verde,
+central_african_republic,"cameroon, chad, democratic_republic_of_congo, congo, sudan"
+chad,"cameroon, central_african_republic, libya, niger, nigeria, sudan"
+comoros,
+democratic_republic_of_congo,"angola, burundi, central_african_republic, congo, rwanda, sudan, tanzania, uganda, zambia"
+djibouti,"eritrea, ethiopia, somalia"
+equatorial_guinea,"cameroon, gabon"
+eritrea,"djibouti, ethiopia, sudan"
+ethiopia,"djibouti, eritrea, kenya, somalia, sudan"
+gambia,senegal
+guinea,"cote_d'ivoire, guinea_bissau, liberia, mali, senegal, sierra_leone"
+guinea_bissau,"guinea, senegal"
+haiti,dominican_republic
+kiribati,
+laos,"burma, cambodia, china, thailand, vietnam"
+lesotho,south_africa
+liberia,"guinea, cote_d'ivoire, sierra_leone"
+madagascar,
+malawi,"mozambique, tanzania, zambia"
+maldives,
+mali,"algeria, burkina_faso, guinea"
+mauritania,"algeria, mali, senegal, western_sahara"
+mozambique,"malawi, south_africa, swaziland, tanzania, zambia, zimbabwe"
+myanmar,"bangladesh, china, india, laos, thailand"
+nepal,"china, india"
+niger,"algeria, benin, burkina_faso, chad, libya, mali, nigeria"
+rwanda,"burundi, democratic_republic_of_congo, tanzania, uganda"
+samoa,
+sao_tome_and_principe,
+senegal,"gambia, guinea, guinea_bissau, mali, mauritania"
+sierra_leone,"guinea, liberia"
+solomon_islands,
+somalia,"djibouti, ethiopia, kenya"
+sudan,"central_african_republic, chad, democratic_republic_of_congo, egypt, eritrea, ethiopia, kenya, libya, uganda"
+tanzania,"burundi, democratic_republic_of_congo, kenya, malawi, mozambique, rwanda, uganda, zambia"
+togo,"benin, burkina_faso, ghana"
+tuvalu,
+uganda,"democratic_republic_of_congo, kenya, rwanda, sudan, tanzania"
+vanuatu,
+yemen,"oman, saudi_arabia"
+zambia,"angola, democratic_republic_of_congo, malawi, mozambique, namibia, tanzania, zimbabwe"

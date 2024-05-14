@@ -1,0 +1,39 @@
+company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,former_col_power,bordering_country
+Nile Breweries Ltd.,South Africa,beverages,72.0,634.0,,False,False,False,False
+Standard Chartered Bank Uganda Ltd.,United Kingdom,commercial banks,13.5,106.0,,False,False,True,False
+Cal Uganda Ltd.,United Kingdom,computer equipment/software,3.6,23.0,1983.0,False,False,True,False
+Abacus Pharma (Africa) Ltd.,India,drugs proprietaries and sundries,2.9,9.0,,True,False,False,False
+Uganda Bata Shoe Company Ltd.,Switzerland,womens footwear except athletic,2.0,165.0,,False,False,False,False
+Transpaper Limited,Kenya,stationery supplies,1.6,35.0,,True,False,False,True
+Uganda Bata Shoe Company Ltd.,Switzerland,womens footwear except athletic,1.3,150.0,,False,False,False,False
+Car & General (U) ltd.,Kenya,farm/garden machinery and equipment,0.3,18.0,1996.0,True,False,False,True
+General Mouldings Ltd.,Kenya,plastic products not elsewhere classified,0.1,45.0,,True,False,False,True
+Barclays Bank of Uganda Ltd.,United Kingdom,commercial banks,,384.0,,False,False,True,False
+Interfreight Forwarders (U) Ltd.,Switzerland,freight transport arrangers,,380.0,,False,False,False,False
+Hima Cement (1994) Ltd,France,cement hydraulic,,350.0,,False,False,False,False
+Van Zanten (U) Ltd.,Netherlands,distributive trade,,281.0,,False,False,False,False
+Roofings Ltd.,Belgium,steel products,,279.0,,False,False,False,False
+Kasese Cobalt Copmany ltd.,France,mining,,265.0,,False,True,False,False
+Uganda Breweries Ltd.,Kenya,beverages,,255.0,,True,False,False,True
+MTN (U) Ltd.,South Africa,telecommunications,,174.0,,False,False,False,False
+Stanbic Bank Uganda Ltd.,South Africa,commercial banks,,150.0,,False,False,False,False
+Unilever (U) Ltd.,United Kingdom,chemicals,,124.0,,False,False,True,False
+Uganda Grain Milling (U) Ltd.,South Africa,wet corn milling,,120.0,,False,False,False,False
+Bakhresa Grain Milling (U) Ltd.,Tanzania,food,,101.0,,True,False,False,True
+Stirling Civil Engineering Company Ltd.,Switzerland,crushed and broken stone,,100.0,,False,True,False,False
+The Cooper Motor Corporation (Uganda) Ltd,Kenya,cars and other motor vehicles,,80.0,,True,False,False,True
+Lonrho Motors Uganda Ltd,Kenya,cars and other motor vehicles,,52.0,,True,False,False,True
+Western Highland Creameries Ltd.,India,dairy farms,,40.0,,True,True,False,False
+Achelis Uganda,Germany,medical/dental supplies,,30.0,,False,False,False,False
+Agro Machinery (Uganda) Ltd,India,industrial machinery and equipment,,24.0,,True,False,False,False
+Sadolin Paints Uganda Ltd,Hong Kong,paints and allied products,,23.0,1963.0,True,False,False,False
+Rhone Poulenc Uganda Ltd,France,chemicals and allied products,,11.0,,False,False,False,False
+Nobel Health Limited,India,drugs proprietaries and sundries,,8.0,,True,False,False,False
+Joh Hansen And Soehne (Uganda) Ltd,Germany,office equipment,,6.0,,False,False,False,False
+Kuehne and Nagel (U) Ltd.,Switzerland,transport,,,,False,False,False,False
+The Old East African Trading Co,Denmark,,,,,False,False,False,False
+Kuehne and Nagel (Uganda) Ltd.,Switzerland,,,,,False,False,False,False
+Macnaughton Limited,United Kingdom,,,,,True,False,True,False
+British American Tobacco (Uganda) Ltd,United Kingdom,cigarettes,,,,True,False,True,False
+Studentwatchout.Co.Uk,United Kingdom,insurance agents and brokers,,,,True,False,True,False
+Sgs Uganda Ltd,Switzerland,,,,,False,False,False,False

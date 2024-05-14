@@ -1,0 +1,28 @@
+company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,former_col_power,bordering_country
+Manufacture de Tabacs de L'Ouest Africaine,France,tobacco,48.8,410.0,,False,False,True,False
+Nestle Senegal S A,Switzerland,fluid milk,27.2,230.0,,False,False,False,False
+Nouvelles Savonneries de L'Ouest Africain S A,United States,cleaning polishing and sanitation preparations,20.0,200.0,1994.0,False,False,False,False
+Societe Senegalaise d'Oxygene et d'Acetylene,France,natural gas liquids,8.6,80.0,,False,True,True,False
+Nord Electricite S A,France,electric services,6.5,9.0,,False,False,True,False
+Valdafrique Laboratoires Canonne S A,France,pharmaceutical preparations,5.7,60.0,,False,False,True,False
+Dakar Metallurgie S A,France,metal mining services,4.6,50.0,1993.0,False,True,True,False
+Societe de Fourniture pour L'industrie et Les Constructions Africaines S A,France,heating and air condition supplies,4.3,45.0,,False,False,True,False
+Collchimie Senegal S A R L,United Kingdom,chemicals and allied products,3.6,18.0,1990.0,True,False,False,False
+Senousiap Senegal,France,miscellaneous durable goods,3.5,120.0,1994.0,False,False,True,False
+A B B Herlicq S A,India,electrical work,2.9,90.0,,True,False,False,False
+la Seigneurie d'Afrique,United Kingdom,paints and allied products,1.9,30.0,,False,False,False,False
+Societe Africaine de Raffinage,Netherlands,drilling oil and gas wells,0.2,228.0,,False,True,False,False
+Banque Internationale Pour Le Comerce et l'industrie Du Senegal,France,commercial banks,,449.0,,False,False,True,False
+Compagnie Francaise de l'Afrique Occidentale S A,France,piece goods,,250.0,,False,False,True,False
+Societe Ouest Africaine d'enterprises Maritimes,Luxembourg,freight transport arrangers,,180.0,,False,False,False,False
+Societe Tropicale de Distribution de Produits Pharmaceutiques S A,France,drugs proprietaries and sundries,,80.0,,False,False,True,False
+Etaperu Afrique de l'Ouest S A,France,vehicle supplies and new parts,,70.0,,False,False,True,False
+Societe Africaine d'Impression Industrielle S A,France,commercial printing,,66.0,1961.0,False,False,True,False
+Unocal Senegal,United States,oil and gas exploration,,22.0,,False,True,False,False
+Bull Senegal,France,,,,,False,False,True,False
+Gras Savoye Senegal Sa,France,,,,,False,False,True,False
+Jean Lefebvre Senegal,France,,,,,False,False,True,False
+Segeca,France,,,,,False,False,True,False
+Seitacen,France,,,,,False,False,True,False
+Sosecode S A,France,,,,,False,False,True,False
+Total Senegal Sa,France,,,,,False,False,True,False

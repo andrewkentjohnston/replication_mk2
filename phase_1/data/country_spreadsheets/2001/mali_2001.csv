@@ -1,0 +1,8 @@
+company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,former_col_power,bordering_country
+Napa Ltd.,Malta,drugs proprietaries and sundries,,2515.0,,True,False,False,False
+Industrie Malienne De Cycles,France,transportation equipment and supplies,,65.0,,False,False,True,False
+B H P Mali Inc,Australia,gold ores,,85.0,,False,True,False,False
+Société De Distribution Automobile Malienne S A,France,,,30.0,,False,False,True,False
+Société Malienne De Gaz Industriel S A,France,,,24.0,,False,False,True,False
+Hydrosahel,France,,,,,False,False,True,False
+Laborex Mali,France,,,,,False,False,True,False

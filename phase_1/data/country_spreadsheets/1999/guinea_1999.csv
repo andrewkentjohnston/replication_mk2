@@ -1,0 +1,8 @@
+company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,former_col_power,bordering_country
+Societe Ouest Africaine D'Enterprises Maritime S A,Luxembourg,freight transport arrangers,0.03,160.0,,False,False,False,False
+Compagnie Des Bauxites De Guinee S A,Netherlands,nonmettalic minerals,,3500.0,1964.0,False,True,False,False
+Societe De Telecommunication Guinienne S A,Malaysia,phone communications,,930.0,1993.0,True,False,False,False
+S D V Guinee S A,France,other water transport,,120.0,,False,False,True,False
+Union Internationale De Banque En Guinee,France,commercial banks,,110.0,1988.0,False,False,True,False
+Societe Saksons De Commerce S A R L,Hong Kong,groceries and related products,,20.0,1989.0,True,False,False,False
+Friedlander Guinee,France,,,,,False,False,True,False

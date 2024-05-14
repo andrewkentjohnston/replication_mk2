@@ -1,0 +1,32 @@
+company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,former_col_power,bordering_country
+Ashanti Goldfields (T) Ltd.,Ghana,gold ores,284.1,20.0,,True,True,False,False
+Mic Tanzania Ltd.,Luxembourg,electronic parts and equipment,19.2,150.0,,False,False,False,False
+Service And Computer Industries Limited,Kenya,electrical equipment and wiring,0.7,33.0,1974.0,True,False,False,True
+Henkel Chemicals East Africa ltd.,Germany,chemical preparations,0.5,100.0,,False,False,False,False
+Philips Distributors Ltd.,Kenya,drugs proprietaries and sundries,0.5,25.0,,True,False,False,True
+Achelis (Tanganyika) Limited,Germany,orthopedic/prosthetic appliances,0.4,35.0,1961.0,False,False,False,False
+Brooke Bond Tanzania Ltd.,United Kingdom,miscellaneous field crops,0.05,7700.0,,False,True,False,False
+Konoike Tanzania Ltd.,Japan,construction,0.04,33.0,1995.0,False,False,False,False
+Achelis Motorex (Tanzania) Ltd.,Germany,distributive trade,0.002,,,False,False,False,False
+Tanganyka Wattle Company Ltd.,United Kingdom,wood products,,1500.0,,False,False,False,False
+Body Care Ltd.,United States,paper mills,,850.0,1997.0,False,False,False,False
+"Tanzania Cigarette Co., Ltd.",United States,cigarettes,,770.0,,False,False,False,False
+"Matsushita Electric Co., (East Africa)",Japan,electronics,,538.0,1966.0,False,False,False,False
+Mwanza Fishnet Manufacturers Ltd.,Japan,fishing net manufacturing,,401.0,1964.0,False,False,False,False
+Kahama Mining Corporation Limited,Canada,gold ores,,200.0,,False,True,False,False
+Interfreight (Tanzania) Ltd.,Switzerland,transport,,150.0,,False,False,False,False
+Sdv Notco (Tanzania) Ltd.,France,freight transport arrangers,,130.0,,False,False,False,False
+Tri Telecommunication Ltd.,Malaysia,radiotelephone communications,,120.0,,True,False,False,False
+International House Property Ltd.,Japan,real estate,,110.0,,False,False,False,False
+Trust Bank Tanzania Ltd.,Kenya,commercial banks,,90.0,1995.0,True,False,False,True
+H K Foam Limited,India,tires and inner tubes,,72.0,,True,False,False,False
+Jos Hansen And Soehne Tanzania Ltd.,Germany,office equipment,,50.0,,False,False,False,False
+Elvira Mineral Water Company Ltd.,Kenya,bottled and canned soft drinks,,20.0,,True,False,False,True
+Keko Pharmaceutical Industry (1997) Ltd.,France,pharmaceutical preparations,,22.0,,False,False,False,False
+C Mehta And Company Tanzania Ltd.,Kenya,dispensing chemists,,20.0,,True,False,False,True
+Wellcome Tanzania ltd.,United Kingdom,chemicals,,7.0,,False,False,False,False
+Glaxo Wellcome Tanzania Ltd.,United Kingdom,drugs proprietaries and sundries,,4.0,,False,False,False,False
+Car & General (Tanzania) Ltd.,Kenya,farm/garden machinery and equipment,,,,True,False,False,True
+Pfizer Ltd.,Netherlands,pharmaceutical preparations,,,,False,False,False,False
+The Old East African Tading Co. (T) Ltd.,Denmark,,,,,False,False,False,False
+Topserve Tanzania Ltd.,Austria,tobacco products,,,,False,False,False,False

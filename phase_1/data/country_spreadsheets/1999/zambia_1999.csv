@@ -1,0 +1,27 @@
+company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,former_col_power,bordering_country
+Dunlop Zambia Limited,United Kingdom,tires and inner tubes,8770.7,448.0,1964.0,False,False,True,False
+Galaun Holdings Ltd.,India,holding companies,8.4,100.0,1995.0,True,False,False,False
+Colgae Palmolive (Zambia) Ltd.,United States,manufacturing industries,6.4,150.0,,False,False,False,False
+Turnpin (Zambia) Ltd.,United Kingdom,construction and mining equipment,5.2,50.0,,False,False,True,False
+Securicor (Zambia) Ltd.,United Kingdom,detective/security services,1.0,2300.0,,False,False,True,False
+N E I Zambia Ltd.,United Kingdom,electronic parts and equipment,0.2,165.0,,False,False,True,False
+Austral Services Ltd.,United Kingdom,tires and inner tubes,0.06,8.0,,False,False,True,False
+Dimon Zambia Ltd.,United States,tobacco farms,0.02,350.0,,False,True,False,False
+Barclays Bank of Zambia Ltd.,United Kingdom,commercial banks,,1557.0,,False,False,True,False
+Nanga Farms Ltd.,United Kingdom,general farms,,1335.0,1993.0,False,True,True,False
+Chilanga Cement Plc,United Kingdom,cement hydraulic,,750.0,1994.0,False,False,True,False
+Cutlet Hammer (Zambia) Ltd,United Kingdom,,60.0,,,False,False,True,False
+Copperbelt Energy Corporation P L C,United Kingdom,electric services,,520.0,,False,False,True,False
+E C Mining Ltd.,Japan,industrial machinery and equipment,,5.0,,False,False,False,False
+Exide Zambia Ltd.,United Kingdom,motor vehicle parts,,45.0,,False,False,True,False
+Kawambwa Tea Company (1996) Ltd.,United Kingdom,forest nurseries,,360.0,,False,True,True,False
+Gec Zambia Ltd.,United Kingdom,household appliance stores,,35.0,,False,False,True,False
+Sandvik (Zambia) Ltd.,Sweden,machine tools metal cutting,,30.0,,False,False,False,False
+Avery Zambia Ltd.,United Kingdom,electrical appliances,,21.0,,False,False,True,False
+A M I (Zambia) Ltd.,Belgium,transport,,,,False,False,False,False
+Achelis (Zambia) Ltd.,Germany,distributive trade,,,,False,False,False,False
+"Marunouchi Manufacturing and Distributing Co., Ltd.",Japan,distributive trade,,,1970.0,False,False,False,False
+Pfizer Ltd.,Netherlands,pharmaceutical preparations,,,,False,False,False,False
+Powerlines Ltd.,Switzerland,,,,,False,False,False,False
+Standard Chartered Bank Zambia Ltd.,United Kingdom,banking,,,,False,False,True,False
+YKK Zippers (Swaziland) (Pty) Ltd.,Japan,,,,1976.0,False,False,False,False

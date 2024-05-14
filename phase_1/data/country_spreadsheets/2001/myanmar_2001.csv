@@ -1,0 +1,23 @@
+company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,former_col_power,bordering_country
+"Myanmar Toyota Tsusho Co., Ltd.",Japan,trading,84.6,9.0,1995.0,False,False,False,False
+Myanmar Megasteel Industries Ltd.,Japan,manufacturing industries,11.0,120.0,1996.0,False,False,False,False
+Myanmar Securities Exchange Centre,Japan,securities,2.6,,1996.0,False,False,False,False
+"Chiyoda & Public Works Co., Ltd.",Japan,,2.1,11.0,1997.0,False,False,False,False
+"M.R.H. Development Co., Ltd.",Japan,manufacturing industries,0.8,71.0,1999.0,False,False,False,False
+"Nippo Myanmar Co., Ltd.",Japan,manufacturing industries,,130.0,1995.0,False,False,False,False
+"Myanmar Sai Steel Industry Co., Ltd.",Japan,manufacturing industries,,93.0,1997.0,False,False,False,False
+"Exe Design Myanmar Co., Ltd.",Japan,,,88.0,1998.0,False,False,False,False
+"TTAS Co., Ltd.",Japan,cars and other motor vehicles,,74.0,1996.0,False,False,False,False
+"Myanmar Suzuki Motor Co., Ltd.",Japan,cars and other motor vehicles,,57.0,1998.0,False,False,False,False
+"MARS International Co., Ltd.",Japan,manufacturing industries,,56.0,1997.0,False,False,False,False
+"Myanmar Nissan Co., Ltd.",Japan,cars and other motor vehicles,,52.0,1996.0,False,False,False,False
+"SAI Travel Service (Myanmar) Co., Ltd.",Japan,vehicle supplies and new parts,,11.0,,False,False,False,False
+"Shwethazin Super Soap Co., Ltd.",Japan,manufacturing industries,,5.0,1997.0,False,False,False,False
+"The Nippo (Yangon) Co., Ltd.",Japan,trading,,4.0,2000.0,False,False,False,False
+Gold Hill Tower ltd.,Japan,,,0.0,1997.0,False,False,False,False
+"Exe-Sakura Myanmar Co., Ltd.",Japan,,,,1995.0,False,False,False,False
+"Myanmar Thiripyitsaya Sakura Co., Ltd.",Japan,hotel,,,1995.0,False,False,False,False
+Myanmar Brewery Ltd.,Singapore,malt beverages,,,1995.0,True,False,False,False
+Myanmar Kuok Oils & Grains Ltd,Singapore,nondurable goods,,,,True,False,False,False
+Sgs (Myanmar) Limited,Switzerland,commercial econ/socio/educ research,,,,False,False,False,False
+Myanmar Jardine Schindler Ltd.,Switzerland,,,,,False,False,False,False

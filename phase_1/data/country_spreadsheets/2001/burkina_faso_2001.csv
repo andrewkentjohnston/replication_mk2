@@ -1,0 +1,11 @@
+company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,former_col_power,bordering_country
+Cica Burkina,France,cars and other motor vehicles,21.0,150.0,1991.0,False,False,True,False
+Scac Delmas Vilejeu,France,freight transport arrangers,6.8,350.0,,False,False,True,False
+Compagnie Burkinabe Pour La Transformation De Métaux S A,India,blast furnace and steel mills,6.0,100.0,,True,False,False,False
+Comptoir Burinkabe Du Batiment,Senegal,construction materials,2.9,14.0,,True,False,False,False
+Société Nationale Du Transit Burkina Sarl,France,freight transport arrangers,,200.0,1995.0,False,False,True,False
+Eeri,France,,,,,False,False,True,False
+Sdv Burkina Faso,France,,,,,False,False,True,False
+Ste Burkinabe Des Gaz Industriels,France,,,,,False,False,True,False
+S O N A C E B ,France,,,,,False,False,True,False
+Sifa,France,,,,,False,False,True,False

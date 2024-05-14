@@ -1,0 +1,35 @@
+company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,former_col_power,bordering_country
+Dunlop Zambia Limited,United Kingdom,tires and inner tubes,8770.7,448.0,1964.0,False,False,True,False
+Galaun Holdings Ltd.,India,holding companies,8.4,100.0,1995.0,True,False,False,False
+Colgae Palmolive (Zambia) Ltd.,United States,manufacturing industries,6.4,150.0,,False,False,False,False
+Turnpan (Zambia) ltd.,United Kingdom,construction and mining equipment,5.2,50.0,,False,False,True,False
+Reckitt And Colman (Zambia) Ltd.,United Kingdom,"perfumes, cosmetics, toilet preparations",3.4,200.0,,False,False,True,False
+Marunouchi Motors Ltd.,Japan,distributive trade,3.4,80.0,1970.0,False,False,False,False
+Kawambwa Tea Company (1996) Ltd.,United Kingdom,forest nurseries,3.0,360.0,,False,True,True,False
+Securicor (Zambia) Ltd.,United Kingdom,detective/security services,1.0,2300.0,,False,False,True,False
+N E I Zambia Ltd.,United Kingdom,electronic parts and equipment,0.2,165.0,,False,False,True,False
+Austral Services Ltd.,United Kingdom,tires and inner tubes,0.1,8.0,,False,False,True,False
+Dimon Zambia Ltd.,United States,tobacco farms,,350.0,,False,True,False,False
+Sandvik (Zambia) Ltd.,Sweden,machine tools metal cutting,,194.0,,False,False,False,False
+Telecel Zambia td.,Virgin Islands,phone communications,,130.0,,True,False,False,False
+Barclays Bank of Zambia Ltd.,United Kingdom,commercial banks,,1557.0,,False,False,True,False
+Chilanga Cement Plc,United Kingdom,cement hydraulic,,750.0,1994.0,False,False,True,False
+Standard Chartered Bank Zambia ltd.,United Kingdom,banking,,500.0,,False,False,True,False
+National Breweries Plc,South Africa,liquor stores,,400.0,,False,False,False,False
+Toyota Zambia Ltd.,Japan,motor vehicle parts,,134.0,1963.0,False,False,False,False
+Tamrock Zambia ltd.,Sweden,industrial supplies,,110.0,,False,False,False,False
+Cutlet Hammer (Zambia) Ltd.,United Kingdom,,,60.0,,False,False,True,False
+Exide Zambia Ltd.,United Kingdom,motor vehicle parts,,45.0,,False,False,True,False
+Gec Zambia ltd.,United Kingdom,household appliance stores,,35.0,,False,False,True,False
+Sandvik (Zambia) Ltd.,Sweden,machine tools metal cutting,,30.0,,False,False,False,False
+Technical Trading And Manufacturing Ltd,United Kingdom,industrial furnaces & ovens,,25.0,,False,False,True,False
+Avery Zambia ltd.,United Kingdom,electrical appliances,,21.0,,False,False,True,False
+E C Mining Ltd.,Japan,industrial machinery and equipment,,5.0,,False,False,False,False
+AMI (Zambia) Ltd.,Belgium,,,,,False,False,False,False
+Achelis (Zambia) Ltd.,Germany,,,,,False,False,False,False
+Pfizer Ltd.,United States,pharmaceutical preparations,,,,False,False,False,False
+Kuehne & Nagel (Zambia) Ab,Switzerland,,,,,False,False,False,False
+Sgs Zambia Ltd,Switzerland,,,,,False,False,False,False
+Cyprus Amax Kansanshi Holdings,Canada,,,,,False,False,False,False
+Agip Zambia Ltd,Italy,,,,,False,False,False,False
+Zeneca Pharma International,United Kingdom,,,,,False,False,True,False

@@ -1,0 +1,35 @@
+company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,former_col_power,bordering_country
+Standard Chartered Bank Uganda Ltd.,United Kingdom,commercial banks,13.5,106,,False,False,True,False
+Abacus Pharma (Africa) Ltd.,India,drugs proprietaries and sundries,2.9,9,,True,False,False,False
+Uganda Bata Shoe Company Ltd.,Switzerland,womens footwear except athletic,2.0,165,,False,False,False,False
+Sadoliln Paints Uganda Limited,Hong Kong,paints and allied products,1.7,200,1963.0,True,False,False,False
+Car and General (U) Ltd.,Kenya,farm/garden machinery and equipment,0.3,18,1966.0,True,False,False,True
+General Mouldings Ltd.,Kenya,plastic products not elsewhere classified,0.06,45,,True,False,False,True
+"Rwenzoli Highlands Tea Co., Ltd.",United Kingdom,tea production,,7605,,False,True,True,False
+British American Tobacco (Uganda) Ltd.,United Kingdom,tobacco,,1923,1984.0,False,False,True,False
+Roko Construction Ltd.,Switzerland,construction,,1607,,False,False,False,False
+Tilda (Uganda) Ltd.,United Kingdom,food,,728,,False,False,True,False
+Nile Breweries Ltd.,South Africa,beverages,,650,,False,False,False,False
+Barclays Bank of Uganda Ltd.,United Kingdom,commercial banks,,384,,False,False,True,False
+Interfreight Forwarders (U) Ltd.,Switzerland,freight transport arrangers,,380,,False,False,False,False
+Van Zanten (U) Ltd.,Netherlands,distributive trade,,281,,False,False,False,False
+Roofings Ltd.,Belgium,steel products,,279,,False,False,False,False
+Kasese Cobalt Company Ltd.,France,mining,,265,,False,True,False,False
+Uganda Breweries Ltd.,Kenya,beverages,,255,,True,False,False,True
+MTN (U) Ltd.,South Africa,telecommunications,,174,,False,False,False,False
+Stanbic Bank Uganda ltd.,South Africa,commercial banks,,150,,False,False,False,False
+Unilever (U) Ltd.,United Kingdom,chemicals,,124,,False,False,True,False
+Bakhresa Grain Milling (U) Ltd.,Tanzania,food,,101,,True,False,False,True
+Shoprite Checkers (U) Ltd.,South Africa,trading,,100,,False,False,False,False
+Stirling Civil Engineering Company ltd.,Switzerland,crushed and broken stone,,100,,False,True,False,False
+Allied Bank International,Belgium,banking,,87,,False,False,False,False
+The Cooper Motor Corporation (Uganda) Ltd.,Kenya,cars and other motor vehicles,,80,,True,False,False,True
+AES Nile Power Ltd.,United States,electricity,,64,,False,False,False,False
+Metro Cash and Carry (U) Ltd.,South Africa,distributive trade,,62,,False,False,False,False
+Kato Aromatic (U) Ltd.,Egypt,distributive trade,,43,,True,False,False,False
+Western Highland Creameries Ltd.,India,dairy farms,,40,,True,True,False,False
+Golf Course Holdings Ltd.,Kenya,construction,,30,,True,False,False,True
+Kuehnne and Nagel (U) Ltd.,Switzerland,transport,,27,,False,False,False,False
+Celtel Uganda Ltd.,United Kingdom,telecommunications,,11,,False,False,True,False
+Nobel Health Limited,India,drugs proprietaries and sundries,,8,,True,False,False,False
+Norpak Power Ltd.,Norway,electricity,,1,,False,False,False,False

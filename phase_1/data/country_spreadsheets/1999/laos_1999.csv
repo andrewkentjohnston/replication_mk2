@@ -1,0 +1,5 @@
+company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,former_col_power,bordering_country
+"Santiphab Intertrade Center Co., Ltd.",Japan,automobile sales,,100.0,1989.0,False,False,False,False
+"Lao Toyota Service Co., Ltd.",Japan,construction,,30.0,1992.0,False,False,False,False
+"Lao Igeto Co., Ltd.",Japan,construction,,,1991.0,False,False,False,False
+P.L. Namera,Japan,manufacture of bicycles,,,,False,False,False,False
