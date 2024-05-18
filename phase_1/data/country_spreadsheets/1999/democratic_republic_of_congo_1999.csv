@@ -1,6 +1,6 @@
-company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,bordering_country
-Utex Africa,Belgium,cotton fabric mills,,2300.0,,False,False,False
-Zaire Services Des Entreprises Petroliers,France,oil and gas field services,,2500.0,,False,False,False
-Zaire Fina S A,France,petroleum products except bulk terminals,,250.0,,False,False,False
-Plantation Lever Au Zaire Sarl,United Kingdom,drilling oil and gas wells,,400.0,,False,True,False
-Japan Petroleum Congo S.A.R.L.,Japan,research and development relatif to petroleum,,,1973.0,False,False,False
+company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,bordering_country,former_col_power
+Utex Africa,Belgium,cotton fabric mills,,2300.0,,False,False,False,True
+Zaire Services Des Entreprises Petroliers,France,oil and gas field services,,2500.0,,False,False,False,False
+Zaire Fina S A,France,petroleum products except bulk terminals,,250.0,,False,False,False,False
+Plantation Lever Au Zaire Sarl,United Kingdom,drilling oil and gas wells,,400.0,,False,True,False,False
+Japan Petroleum Congo S.A.R.L.,Japan,research and development relatif to petroleum,,,1973.0,False,False,False,False
