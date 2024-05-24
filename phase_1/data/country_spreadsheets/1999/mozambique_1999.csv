@@ -1,7 +1,7 @@
 company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,former_col_power,bordering_country
 Banco Standard Totta De Mocambique Sarl,United Kingdom,commercial banks,4.7,400.0,,False,False,False,False
 Brithol Michcoma Mocambique Limitda,United Kingdom,office equipment,4.4,87.0,1987.0,False,False,False,False
-Cartonagem De Mocambique Limitda,South Africa,converted paper products general,3.0,200.0,1964.0,False,False,False,True
+Cartonagem De Mocambique Limitda,South Africa,converted paper products general,3.0,200.0,1964.0,True,False,False,True
 Quintas and Quintas Mocambique SARL,Portugal,electrical appliances,1.5,15.0,,False,False,True,False
 Entreposto Frigorifiqcio de Pesca de Mozambique Ltda.,Japan,,,632.0,1978.0,False,False,False,False
 Banco Standard Totta De Mocambique Sarl,Spain,commercial banks,,415.0,1966.0,False,False,False,False

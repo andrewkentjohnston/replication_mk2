@@ -2,10 +2,10 @@ country,prop_emnes,prop_emnes_excl_nat_res,prop_emnes_excl_former_col_power,zero
 samoa,0.3333333333333333,0.3333333333333333,0.3333333333333333,False,False,False
 afghanistan,1.0,1.0,1.0,False,False,False
 niger,0.0,0.0,0.0,False,False,False
-uganda,0.3235294117647059,0.3333333333333333,0.4074074074074074,False,False,False
+uganda,0.47058823529411764,0.5,0.5925925925925926,False,False,False
 madagascar,0.05263157894736842,0.058823529411764705,0.125,False,False,False
 somalia,,,,True,True,True
-mozambique,0.08333333333333333,0.08333333333333333,0.1,False,False,False
+mozambique,0.16666666666666666,0.16666666666666666,0.2,False,False,False
 democratic_republic_of_congo,0.0,0.0,0.0,False,False,False
 benin,0.0,0.0,0.0,False,False,False
 haiti,0.0,0.0,0.0,False,False,False
@@ -24,7 +24,7 @@ mauritania,0.0,0.0,,False,False,True
 central_african_republic,0.0,0.0,,False,False,True
 angola,0.13636363636363635,0.058823529411764705,0.15789473684210525,False,False,False
 lesotho,0.0,0.0,0.0,False,False,False
-senegal,0.07407407407407407,0.08695652173913043,0.25,False,False,False
+senegal,0.037037037037037035,0.045454545454545456,0.125,False,False,False
 mali,0.0,0.0,,False,False,True
 chad,0.0,0.0,,False,False,True
 kiribati,0.0,0.0,0.0,False,False,False

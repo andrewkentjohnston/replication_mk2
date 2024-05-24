@@ -1,5 +1,5 @@
 company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,former_col_power,bordering_country
-Nile Breweries Ltd.,South Africa,beverages,72.0,634.0,,False,False,False,False
+Nile Breweries Ltd.,South Africa,beverages,72.0,634.0,,True,False,False,False
 Standard Chartered Bank Uganda Ltd.,United Kingdom,commercial banks,13.5,106.0,,False,False,True,False
 Cal Uganda Ltd.,United Kingdom,computer equipment/software,3.6,23.0,1983.0,False,False,True,False
 Abacus Pharma (Africa) Ltd.,India,drugs proprietaries and sundries,2.9,9.0,,True,False,False,False
@@ -15,10 +15,10 @@ Van Zanten (U) Ltd.,Netherlands,distributive trade,,281.0,,False,False,False,Fal
 Roofings Ltd.,Belgium,steel products,,279.0,,False,False,False,False
 Kasese Cobalt Copmany ltd.,France,mining,,265.0,,False,True,False,False
 Uganda Breweries Ltd.,Kenya,beverages,,255.0,,True,False,False,True
-MTN (U) Ltd.,South Africa,telecommunications,,174.0,,False,False,False,False
-Stanbic Bank Uganda Ltd.,South Africa,commercial banks,,150.0,,False,False,False,False
+MTN (U) Ltd.,South Africa,telecommunications,,174.0,,True,False,False,False
+Stanbic Bank Uganda Ltd.,South Africa,commercial banks,,150.0,,True,False,False,False
 Unilever (U) Ltd.,United Kingdom,chemicals,,124.0,,False,False,True,False
-Uganda Grain Milling (U) Ltd.,South Africa,wet corn milling,,120.0,,False,False,False,False
+Uganda Grain Milling (U) Ltd.,South Africa,wet corn milling,,120.0,,True,False,False,False
 Bakhresa Grain Milling (U) Ltd.,Tanzania,food,,101.0,,True,False,False,True
 Stirling Civil Engineering Company Ltd.,Switzerland,crushed and broken stone,,100.0,,False,True,False,False
 The Cooper Motor Corporation (Uganda) Ltd,Kenya,cars and other motor vehicles,,80.0,,True,False,False,True
@@ -33,7 +33,7 @@ Joh Hansen And Soehne (Uganda) Ltd,Germany,office equipment,,6.0,,False,False,Fa
 Kuehne and Nagel (U) Ltd.,Switzerland,transport,,,,False,False,False,False
 The Old East African Trading Co,Denmark,,,,,False,False,False,False
 Kuehne and Nagel (Uganda) Ltd.,Switzerland,,,,,False,False,False,False
-Macnaughton Limited,United Kingdom,,,,,True,False,True,False
-British American Tobacco (Uganda) Ltd,United Kingdom,cigarettes,,,,True,False,True,False
-Studentwatchout.Co.Uk,United Kingdom,insurance agents and brokers,,,,True,False,True,False
+Macnaughton Limited,United Kingdom,,,,,False,False,True,False
+British American Tobacco (Uganda) Ltd,United Kingdom,cigarettes,,,,False,False,True,False
+Studentwatchout.Co.Uk,United Kingdom,insurance agents and brokers,,,,False,False,True,False
 Sgs Uganda Ltd,Switzerland,,,,,False,False,False,False

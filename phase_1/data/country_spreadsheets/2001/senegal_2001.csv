@@ -1,8 +1,8 @@
 company,home_economy,industry,sales_millions,employment,year_of_establishment,emne,nat_res_ind,former_col_power,bordering_country
 Crédit Lyonnais Sénégal,France,other commercial banks,110.9,,,False,False,True,False
-Société Ouest Africaine Des Ciments SA,France,crushed and broken limestone,72.6,301.0,,False,True,True,False
+Société Ouest Africaine Des Ciments SA,France,crushed and broken limestone,72.6,301.0,,False,False,True,False
 Manufacture de Tabacs de l'Ouest Africaine,France,tobacco,48.8,410.0,,False,False,True,False
-Nestlé Sénégal S A,Switzerland,fluid milk,27.2,230.0,,False,False,False,False
+Nestlé Sénégal S A,Switzerland,fluid milk,27.2,230.0,,False,True,False,False
 Nouvelles Savonneries de l'Ouest Africain S A,United States,cleaning polishing and sanitation preparations,20.0,200.0,1994.0,False,False,False,False
 Société Sénégalaise d'Oxygène et d'Acétylène,France,natural gas liquids,8.6,80.0,,False,True,True,False
 Bernabe Sénégal,France,lumber plywood and millwork,8.5,50.0,,False,False,True,False
@@ -13,11 +13,11 @@ Société Sénégalaise d'Oxygène et d'Acétylène,France,natural gas liquids,4
 Société Africaine d'Impression Industrielle S A,France,commercial printing,4.7,64.0,1961.0,False,False,True,False
 Dakar Métallurgie S A,France,metal mining services,4.6,50.0,1993.0,False,True,True,False
 Société de Fourniture pour L'industrie et Les Constructions Africaines S A,France,heating and air condition supplies,4.3,45.0,,False,False,True,False
-Collchimie Sénégal S A R L,United Kingdom,chemicals and allied products,3.6,18.0,1990.0,True,False,False,False
+Collchimie Sénégal S A R L,United Kingdom,chemicals and allied products,3.6,18.0,1990.0,False,False,False,False
 Senousiap Sénégal,France,miscellaneous durable goods,3.5,120.0,1994.0,False,False,True,False
 A B B Herlicq S A,India,electrical work,2.9,90.0,,True,False,False,False
 Société Africaine De Sondage Injections Et Forages,France,,2.8,79.0,,False,False,True,False
-La Seigneurie d'Afrique,United Kingdom,paints and allied products,1.9,30.0,,True,False,False,False
+La Seigneurie d'Afrique,United Kingdom,paints and allied products,1.9,30.0,,False,False,False,False
 Societe Africaine de Raffinage,Netherlands,drilling oil and gas wells,,228.0,,False,True,False,False
 Banque Internationale Pour Le Commerce et l'Industrie Du Sénégal,France,commercial banks,,449.0,,False,False,True,False
 Compagnie Francaise de l'Afrique Occidentale S A,France,piece goods,,250.0,,False,False,True,False
