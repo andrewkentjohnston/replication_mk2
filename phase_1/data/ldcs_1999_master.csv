@@ -1,4 +1,4 @@
-country,prop_emnes,prop_emnes_excl_nat_res,prop_emnes_excl_former_col_power,zero_mnes,zero_mnes_excl_nat_res,zero_mnes_excl_former_col_power,c1_voice_and_acc_1998,c2_pol_stability_1998,c3_gov_effectiveness_1998,c4_reg_quality_1998,c5_rule_of_law_1998,c5_control_of_corruption_1998
+country,prop_emnes,prop_emnes_excl_nat_res,prop_emnes_excl_former_col_power,zero_mnes,zero_mnes_excl_nat_res,zero_mnes_excl_former_col_power,c1_voice_and_acc_1998,c2_pol_stability_1998,c3_gov_effectiveness_1998,c4_reg_quality_1998,c5_rule_of_law_1998,c6_control_of_corruption_1998
 afghanistan,1,1,1,FALSE,FALSE,FALSE,-1.68,-1.84,,,-1.13,
 angola,0.136363636,0.058823529,0.157894737,FALSE,FALSE,FALSE,-1.28,-2.04,-1.63,-1.19,-1.45,-1.05
 bangladesh,0.125,0.130434783,0.176470588,FALSE,FALSE,FALSE,-0.17,-0.44,-0.35,-0.08,-0.72,-0.4
