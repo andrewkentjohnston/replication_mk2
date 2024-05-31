@@ -8,7 +8,7 @@ clear all
 set more off
 
 * ----- Data Import -----
-import delimited using "./data/ldcs_panel_dataset.csv", clear
+import delimited using "main_dataset.csv", clear
 
 * ----- Data Cleaning and Filtering -----
 * Dropping entities with incomplete observations for both years
