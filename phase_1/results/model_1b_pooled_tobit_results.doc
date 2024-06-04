@@ -1,0 +1,43 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx3600\clbrdrt\brdrs\cellx6192\clbrdrt\brdrs\cellx8784
+\ql \cell\qc (1)\cell\qc (2)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3600\cellx6192\cellx8784
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx3600\clbrdrb\brdrs\cellx6192\clbrdrb\brdrs\cellx8784
+\ql VARIABLES\cell\qc perc_emnes\cell\qc /\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3600\cellx6192\cellx8784
+\ql \cell\qc \cell\qc \cell\row
+\ql voice_and_accountability\cell\qc -8.133\cell\qc \cell\row
+\ql \cell\qc (5.685)\cell\qc \cell\row
+\ql pol_stab_abs_violence\cell\qc -6.236\cell\qc \cell\row
+\ql \cell\qc (4.563)\cell\qc \cell\row
+\ql government_effectiveness\cell\qc 4.092\cell\qc \cell\row
+\ql \cell\qc (7.193)\cell\qc \cell\row
+\ql regulatory_quality\cell\qc 17.17**\cell\qc \cell\row
+\ql \cell\qc (7.520)\cell\qc \cell\row
+\ql rule_of_law\cell\qc 4.400\cell\qc \cell\row
+\ql \cell\qc (11.59)\cell\qc \cell\row
+\ql control_of_corruption\cell\qc -12.65\cell\qc \cell\row
+\ql \cell\qc (9.784)\cell\qc \cell\row
+\ql gni_per_capita\cell\qc 0.0189\cell\qc \cell\row
+\ql \cell\qc (0.0197)\cell\qc \cell\row
+\ql roads_paved_pct\cell\qc 0.0508\cell\qc \cell\row
+\ql \cell\qc (0.280)\cell\qc \cell\row
+\ql phones_per_1000\cell\qc 0.0109\cell\qc \cell\row
+\ql \cell\qc (0.117)\cell\qc \cell\row
+\ql geographic_proximity\cell\qc 26.67***\cell\qc \cell\row
+\ql \cell\qc (7.647)\cell\qc \cell\row
+\ql colonial_link\cell\qc 8.073\cell\qc \cell\row
+\ql \cell\qc (5.855)\cell\qc \cell\row
+\ql var(e.perc_emnes)\cell\qc \cell\qc 216.0***\cell\row
+\ql \cell\qc \cell\qc (66.57)\cell\row
+\ql Constant\cell\qc -21.37**\cell\qc \cell\row
+\ql \cell\qc (9.739)\cell\qc \cell\row
+\ql \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 66\cell\qc 66\cell\row
+\ql LR chi2\cell\qc 37.68236678184562\cell\qc 37.68236678184562\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx3600\clbrdrb\brdrs\cellx6192\clbrdrb\brdrs\cellx8784
+\ql Log likelihood\cell\qc -124.676391640959\cell\qc -124.676391640959\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

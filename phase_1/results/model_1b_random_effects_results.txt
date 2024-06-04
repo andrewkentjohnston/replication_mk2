@@ -1,0 +1,38 @@
+	(1)	(2)
+VARIABLES	perc_emnes	/
+		
+voice_and_accountability	-0.813	
+	(7.023)	
+pol_stab_abs_violence	-16.65***	
+	(5.266)	
+government_effectiveness	3.287	
+	(6.178)	
+regulatory_quality	23.31***	
+	(7.429)	
+rule_of_law	13.93	
+	(11.73)	
+control_of_corruption	-17.07**	
+	(8.471)	
+gni_per_capita	0.0178	
+	(0.0321)	
+roads_paved_pct	0.0379	
+	(0.470)	
+phones_per_1000	0.124	
+	(0.181)	
+geographic_proximity	27.01**	
+	(12.63)	
+colonial_link	2.481	
+	(7.395)	
+sigma_u		18.20***
+		(4.527)
+sigma_e		6.227***
+		(1.324)
+Constant	-21.43	
+	(14.12)	
+		
+Observations	66	66
+Number of country_id	33	33
+Wald chi2	32.74609990387954	32.74609990387954
+Log likelihood	-115.4511580038633	-115.4511580038633
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

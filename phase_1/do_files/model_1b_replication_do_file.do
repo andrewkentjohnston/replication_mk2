@@ -56,6 +56,26 @@ local chi2_pooled = e(chi2)
 local ll_pooled = e(ll)
 outreg2 using "./results/model_1b_pooled_tobit_results.doc", replace word addtext("LR chi2", `chi2_pooled', "Log likelihood", `ll_pooled')
 
+* Summary Statistics
+summarize
 
+* Correlation Matrix
+pwcorr, star(0.05)
+
+* Save the output to a log file
+log using model_1b_summary_stats_and_corr_matrix.log, replace
+summarize
+pwcorr, star(0.05)
+log close
+
+* Save the output to a text file
+capture noisily {
+    outsheet using model_1b_summary_stats_and_corr_matrix.txt, replace
+}
+
+* Save the output to a Word file
+capture noisily {
+    outreg2 using model_1b_summary_stats_and_corr_matrix.doc, replace word
+}
 
 * End of do-file

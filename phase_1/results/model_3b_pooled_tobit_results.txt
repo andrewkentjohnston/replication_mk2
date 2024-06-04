@@ -1,0 +1,33 @@
+	(1)	(2)
+VARIABLES	perc_emnes_excl_former_col_power	/
+		
+voice_and_accountability	-4.948	
+	(15.65)	
+pol_stab_abs_violence	-13.44	
+	(12.56)	
+government_effectiveness	31.19	
+	(20.81)	
+regulatory_quality	33.85	
+	(21.32)	
+rule_of_law	4.157	
+	(32.25)	
+control_of_corruption	-45.82	
+	(28.49)	
+gni_per_capita	0.0492	
+	(0.0558)	
+roads_paved_pct	0.135	
+	(0.778)	
+phones_per_1000	-0.00654	
+	(0.337)	
+geographic_proximity	23.58	
+	(22.18)	
+var(e.perc_emnes_excl_former_col_power)		1,816***
+		(610.5)
+Constant	-39.17	
+	(26.96)	
+		
+Observations	66	66
+LR chi2	20.28854584321829	20.28854584321829
+Log likelihood	-141.0389935945656	-141.0389935945656
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		
